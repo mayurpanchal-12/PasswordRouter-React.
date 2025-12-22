@@ -11,7 +11,7 @@ export default function Navbar() {
     <nav className="flex bg-gray-100 p-4 shadow-md">
       <NavLink to="/" className={linkClass}>Generator</NavLink>
       <NavLink to="/history" className={linkClass}>History</NavLink>
-      <NavLink to="/settings" className={linkClass}>Settings</NavLink>
+      <NavLink to="/settings" className={linkClass}>Guide</NavLink>
     </nav>
   );
 }
