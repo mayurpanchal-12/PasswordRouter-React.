@@ -5,7 +5,7 @@ A password maker by using we can create strong passwords; it also shows strength
 
 ## 🔗 Live Demo
 
-[Click here to see the app](https://reacttodoproject.vercel.ap)
+[Click here to see the app](https://password-router-react-a33h8pekj-mayur-panchal-s-projects.vercel.app)
 
 ---
 
